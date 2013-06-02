@@ -1,5 +1,5 @@
 //
-//  BCFullDatabaseSearchTableViewController.h
+//  BCFullDatabaseEditionsSearchOptionTableViewController.h
 //  MTG Card Database
 //
 //  Created by Brian Corbin on 6/2/13.
@@ -8,5 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BCFullDatabaseSearchTableViewController : UITableViewController
+@interface BCFullDatabaseEditionsSearchOptionTableViewController : UITableViewController
+
 @end

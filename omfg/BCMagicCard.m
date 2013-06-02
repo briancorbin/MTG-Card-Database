@@ -9,19 +9,22 @@
 #import "BCMagicCard.h"
 
 @implementation BCMagicCard
-@synthesize cardName, cardType, cmc, PT, text, setrarity, imageName;
+@synthesize cardName, cardType, cmc, P, T, set, rarity, imageID, oracleRulings;
 
--(id)initWithCardName:(NSString *)aCardName AndCardType:(NSString *)aCardType AndCMC:(NSString *)aCMC AndPT:(NSString *)aPT AndText:(NSString *) aText AndSetRarity:(NSString *)aSetRarity AndImageName:(NSString *)aImageName
+-(id)initWithImageID:(NSString *)aImageID AndName:(NSString *)aCardName AndCMC:(NSString *)aCMC AndType:(NSString *)aCardType AndSet:(NSString *)aSet AndRarity:(NSString *)aRarity AndPower:(NSString *)aP AndToughness:(NSString *)aT AndOracleRulings:(NSString *)aOracleRulings
 {
-    self.cardName = aCardName;
-    self.cardType = aCardType;
+    self.imageID = aImageID;
+    self.CardName = aCardName;
     self.cmc = aCMC;
-    self.PT = aPT;
-    self.text = aText;
-    self.setrarity = aSetRarity;
-    self.imageName = aImageName;
+    self.cardType = aCardType;
+    self.set = aSet;
+    self.rarity = aRarity;
+    self.P = aP;
+    self.T = aT;
+    self.oracleRulings = aOracleRulings;
     
     return self;
 }
+
 
 @end

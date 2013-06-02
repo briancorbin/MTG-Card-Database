@@ -11,9 +11,6 @@
 
 @interface BCCardInfoViewController : UIViewController
 
-- (IBAction)doneButtonPressed:(id)sender;
-
-@property (weak, nonatomic) IBOutlet UINavigationBar *navBarCardTitle;
 @property (weak, nonatomic) IBOutlet UIImageView *imgCardView;
 
 @property BCMagicCard *cardInfo;

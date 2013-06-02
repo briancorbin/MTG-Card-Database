@@ -13,20 +13,24 @@
     NSString *cardName;
     NSString *cardType;
     NSString *cmc;
-    NSString *PT;
-    NSString *text;
-    NSString *setrarity;
-    NSString *imageName;
+    NSString *P;
+    NSString *T;
+    NSString *oracleRulings;
+    NSString *set;
+    NSString *rarity;
+    NSString *imageID;
 }
 
 @property (nonatomic) NSString *cardName;
 @property (nonatomic) NSString *cardType;
 @property (nonatomic) NSString *cmc;
-@property (nonatomic) NSString *PT;
-@property (nonatomic) NSString *text;
-@property (nonatomic) NSString *setrarity;
-@property (nonatomic) NSString *imageName;
+@property (nonatomic) NSString *P;
+@property (nonatomic) NSString *T;
+@property (nonatomic) NSString *oracleRulings;
+@property (nonatomic) NSString *set;
+@property (nonatomic) NSString *rarity;
+@property (nonatomic) NSString *imageID;
 
--(id)initWithCardName:(NSString *) aCardName AndCardType:(NSString *) aCardType AndCMC:(NSString *) aCMC AndPT:(NSString *) aPT AndText:(NSString *) aText AndSetRarity:(NSString *) aSetRarity AndImageName:(NSString *) aImageName;
+-(id)initWithImageID:(NSString *) aImageID AndName:(NSString *) aCardName AndCMC:(NSString *) aCMC AndType:(NSString *) aCardType AndSet:(NSString *) aSet AndRarity:(NSString *) aRarity AndPower:(NSString *) aP AndToughness:(NSString *) aT AndOracleRulings:(NSString *) aOracleRulings;
 
 @end

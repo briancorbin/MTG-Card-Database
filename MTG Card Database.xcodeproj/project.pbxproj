@@ -9,8 +9,9 @@
 /* Begin PBXBuildFile section */
 		D318507C175792D1008F840B /* BCMagicCard.m in Sources */ = {isa = PBXBuildFile; fileRef = D318507B175792D1008F840B /* BCMagicCard.m */; };
 		D31850D81757F810008F840B /* loadCardDataAndCSVParsing.m in Sources */ = {isa = PBXBuildFile; fileRef = D31850D71757F810008F840B /* loadCardDataAndCSVParsing.m */; };
-		D39C6B22175BA5050094457C /* savetest.txt in Resources */ = {isa = PBXBuildFile; fileRef = D39C6B21175BA5050094457C /* savetest.txt */; };
 		D39C6B25175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D39C6B24175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m */; };
+		D39C6B29175BE3550094457C /* RTR.csv in Resources */ = {isa = PBXBuildFile; fileRef = D39C6B28175BE3550094457C /* RTR.csv */; };
+		D39C6B2D175BF77C0094457C /* BCFullDatabaseEditionsSearchOptionTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D39C6B2C175BF77C0094457C /* BCFullDatabaseEditionsSearchOptionTableViewController.m */; };
 		D3BD12A817569A1E00A3FA85 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3BD12A717569A1E00A3FA85 /* UIKit.framework */; };
 		D3BD12AA17569A1E00A3FA85 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3BD12A917569A1E00A3FA85 /* Foundation.framework */; };
 		D3BD12AC17569A1E00A3FA85 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3BD12AB17569A1E00A3FA85 /* CoreGraphics.framework */; };
@@ -45,9 +46,11 @@
 		D318507B175792D1008F840B /* BCMagicCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCMagicCard.m; sourceTree = "<group>"; };
 		D31850D61757F810008F840B /* loadCardDataAndCSVParsing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = loadCardDataAndCSVParsing.h; sourceTree = "<group>"; };
 		D31850D71757F810008F840B /* loadCardDataAndCSVParsing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = loadCardDataAndCSVParsing.m; sourceTree = "<group>"; };
-		D39C6B21175BA5050094457C /* savetest.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = savetest.txt; path = ../savetest.txt; sourceTree = "<group>"; };
 		D39C6B23175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCFullDatabaseSearchTableViewController.h; sourceTree = "<group>"; };
 		D39C6B24175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCFullDatabaseSearchTableViewController.m; sourceTree = "<group>"; };
+		D39C6B28175BE3550094457C /* RTR.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RTR.csv; sourceTree = "<group>"; };
+		D39C6B2B175BF77C0094457C /* BCFullDatabaseEditionsSearchOptionTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCFullDatabaseEditionsSearchOptionTableViewController.h; sourceTree = "<group>"; };
+		D39C6B2C175BF77C0094457C /* BCFullDatabaseEditionsSearchOptionTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCFullDatabaseEditionsSearchOptionTableViewController.m; sourceTree = "<group>"; };
 		D3BD12A417569A1E00A3FA85 /* MTG Card Database.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MTG Card Database.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3BD12A717569A1E00A3FA85 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D3BD12A917569A1E00A3FA85 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -101,7 +104,7 @@
 		D318507D1757BEB3008F840B /* CSV Files */ = {
 			isa = PBXGroup;
 			children = (
-				D39C6B21175BA5050094457C /* savetest.txt */,
+				D39C6B28175BE3550094457C /* RTR.csv */,
 			);
 			name = "CSV Files";
 			sourceTree = "<group>";
@@ -109,12 +112,7 @@
 		D31850DC1757FC37008F840B /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				D3BD12C217569A1E00A3FA85 /* ViewController.h */,
-				D3BD12C317569A1E00A3FA85 /* ViewController.m */,
-				D3BD12E217569D4A00A3FA85 /* BCCardInfoViewController.h */,
-				D3BD12E317569D4A00A3FA85 /* BCCardInfoViewController.m */,
-				D39C6B23175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.h */,
-				D39C6B24175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m */,
+				D39C6B2A175BF7480094457C /* Full Database View Controllers */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -137,6 +135,21 @@
 				D318507B175792D1008F840B /* BCMagicCard.m */,
 			);
 			name = BCMagicCard;
+			sourceTree = "<group>";
+		};
+		D39C6B2A175BF7480094457C /* Full Database View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D3BD12C217569A1E00A3FA85 /* ViewController.h */,
+				D3BD12C317569A1E00A3FA85 /* ViewController.m */,
+				D3BD12E217569D4A00A3FA85 /* BCCardInfoViewController.h */,
+				D3BD12E317569D4A00A3FA85 /* BCCardInfoViewController.m */,
+				D39C6B23175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.h */,
+				D39C6B24175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m */,
+				D39C6B2B175BF77C0094457C /* BCFullDatabaseEditionsSearchOptionTableViewController.h */,
+				D39C6B2C175BF77C0094457C /* BCFullDatabaseEditionsSearchOptionTableViewController.m */,
+			);
+			name = "Full Database View Controllers";
 			sourceTree = "<group>";
 		};
 		D3BD129B17569A1E00A3FA85 = {
@@ -293,7 +306,7 @@
 				D3BD12BC17569A1E00A3FA85 /* Default@2x.png in Resources */,
 				D3BD12BE17569A1E00A3FA85 /* Default-568h@2x.png in Resources */,
 				D3BD12C117569A1E00A3FA85 /* MainStoryboard.storyboard in Resources */,
-				D39C6B22175BA5050094457C /* savetest.txt in Resources */,
+				D39C6B29175BE3550094457C /* RTR.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,6 +348,7 @@
 				D318507C175792D1008F840B /* BCMagicCard.m in Sources */,
 				D31850D81757F810008F840B /* loadCardDataAndCSVParsing.m in Sources */,
 				D39C6B25175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m in Sources */,
+				D39C6B2D175BF77C0094457C /* BCFullDatabaseEditionsSearchOptionTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

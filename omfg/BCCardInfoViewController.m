@@ -12,7 +12,7 @@
 
 @implementation BCCardInfoViewController
 
-@synthesize cardInfo, navBarCardTitle, imgCardView;
+@synthesize cardInfo, imgCardView;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -26,19 +26,13 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    navBarCardTitle.topItem.title = cardInfo.cardName;
-    imgCardView.image = [UIImage imageWithData:[NSData dataWithContentsOfURL:[NSURL URLWithString:cardInfo.imageName]]];
+    imgCardView.image = [UIImage imageWithData:[NSData dataWithContentsOfURL:[NSURL URLWithString:[NSString stringWithFormat:@"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=%@&type=card",cardInfo.imageID ]]]];
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-}
-
--(void)doneButtonPressed:(id)sender
-{
-    [self dismissViewControllerAnimated:YES completion:nil];
 }
 
 @end

@@ -15,32 +15,37 @@
 
 -(NSMutableArray *)loadCardData
 {
-    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"savetest" ofType:@"txt"];
+    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"RTR" ofType:@"csv"];
     NSString *fileContent = [NSString stringWithContentsOfFile:filePath encoding:NSUTF8StringEncoding error:nil];
     NSMutableArray *rowArray = [[NSMutableArray alloc] initWithArray:[fileContent componentsSeparatedByString:@"\n"]];
     [rowArray removeObjectAtIndex:0]; //removes the header titles of each column
-    NSMutableArray *cardNames = [[NSMutableArray alloc]init]; //Add however many columns there are
+    NSMutableArray *cardImageIDs = [[NSMutableArray alloc]init];
+    NSMutableArray *cardNames = [[NSMutableArray alloc]init];
     NSMutableArray *cardTypes = [[NSMutableArray alloc]init];
     NSMutableArray *cardCMCs = [[NSMutableArray alloc]init];
-    NSMutableArray *cardPTs = [[NSMutableArray alloc]init];
-    NSMutableArray *cardTexts = [[NSMutableArray alloc]init];
-    NSMutableArray *cardSetsRarities = [[NSMutableArray alloc]init];
+    NSMutableArray *cardPs = [[NSMutableArray alloc]init];
+    NSMutableArray *cardTs = [[NSMutableArray alloc]init];
+    NSMutableArray *cardOracleRulings = [[NSMutableArray alloc]init];
+    NSMutableArray *cardSets = [[NSMutableArray alloc]init];
+    NSMutableArray *cardRarities = [[NSMutableArray alloc]init];
     
     for(int i=0; i<rowArray.count;i++)
     {
         NSMutableArray *tempArray = [[NSMutableArray alloc]initWithArray:[rowArray[i] componentsSeparatedByString:@"@"]];
-        [cardNames addObject:[tempArray objectAtIndex:0]];
-        [cardTypes addObject:[tempArray objectAtIndex:1]];
+        [cardImageIDs addObject:[tempArray objectAtIndex:0]];
+        [cardNames addObject:[tempArray objectAtIndex:1]];
         [cardCMCs addObject:[tempArray objectAtIndex:2]];
-        [cardPTs addObject:[tempArray objectAtIndex:3]];
-        [cardTexts addObject:[tempArray objectAtIndex:4]];
-        [cardSetsRarities addObject:[tempArray objectAtIndex:5]];
+        [cardTypes addObject:[tempArray objectAtIndex:3]];
+        [cardSets addObject:[tempArray objectAtIndex:4]];
+        [cardRarities addObject:[tempArray objectAtIndex:5]];
+        [cardPs addObject:[tempArray objectAtIndex:6]];
+        [cardTs addObject:[tempArray objectAtIndex:7]];
+        [cardOracleRulings addObject:[tempArray objectAtIndex:8]];
     }
-    NSLog(@"%@",cardSetsRarities[0]);
     cardLibrary = [[NSMutableArray alloc] init];
     for(int i=0;i<cardNames.count;i++)
     {
-        BCMagicCard *newMagicCard = [[BCMagicCard alloc]initWithCardName:cardNames[i] AndCardType:cardTypes[i] AndCMC:cardCMCs[i] AndPT:cardPTs[i] AndText:cardTexts[i] AndSetRarity:cardSetsRarities[i] AndImageName:@""];
+        BCMagicCard *newMagicCard = [[BCMagicCard alloc]initWithImageID:cardImageIDs[i] AndName:cardNames[i] AndCMC:cardCMCs[i] AndType:cardTypes[i] AndSet:cardSets[i] AndRarity:cardRarities[i] AndPower:cardPs[i] AndToughness:cardTs[i] AndOracleRulings:cardOracleRulings[i]];
         [cardLibrary addObject:newMagicCard];
     }
     //passing cardLibrary to ViewController
