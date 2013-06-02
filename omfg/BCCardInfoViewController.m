@@ -27,9 +27,6 @@
 {
     [super viewDidLoad];
     navBarCardTitle.topItem.title = cardInfo.cardName;
-    //NSString *imgName = cardInfo.imageName;
-    //imgCardView.image = [UIImage imageNamed:imgName];
-    NSLog(@"%@", cardInfo.imageName);
     imgCardView.image = [UIImage imageWithData:[NSData dataWithContentsOfURL:[NSURL URLWithString:cardInfo.imageName]]];
 }
 

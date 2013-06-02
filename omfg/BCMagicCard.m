@@ -9,21 +9,18 @@
 #import "BCMagicCard.h"
 
 @implementation BCMagicCard
-@synthesize cardName, cardType, cmc, power, toughness, rarity, set, imageName;
+@synthesize cardName, cardType, cmc, PT, text, setrarity, imageName;
 
--(id)initWithCardName:(NSString *)aCardName AndCardType:(NSString *)aCardType AndCMC:(NSString *)aCMC AndPower:(NSString *)aPower AndToughness:(NSString *)aToughness AndRarity:(NSString *)aRarity AndSet:(NSString *)aSet AndImageName:(NSString *)aImageName
+-(id)initWithCardName:(NSString *)aCardName AndCardType:(NSString *)aCardType AndCMC:(NSString *)aCMC AndPT:(NSString *)aPT AndText:(NSString *) aText AndSetRarity:(NSString *)aSetRarity AndImageName:(NSString *)aImageName
 {
-    if(self = [super init])
-    {
-        self.cardName = aCardName;
-        self.cardType = aCardType;
-        self.cmc = aCMC;
-        self.power = aPower;
-        self.toughness = aToughness;
-        self.rarity = aRarity;
-        self.set = aSet;
-        self.imageName = aImageName;
-    }
+    self.cardName = aCardName;
+    self.cardType = aCardType;
+    self.cmc = aCMC;
+    self.PT = aPT;
+    self.text = aText;
+    self.setrarity = aSetRarity;
+    self.imageName = aImageName;
+    
     return self;
 }
 

@@ -9,163 +9,8 @@
 /* Begin PBXBuildFile section */
 		D318507C175792D1008F840B /* BCMagicCard.m in Sources */ = {isa = PBXBuildFile; fileRef = D318507B175792D1008F840B /* BCMagicCard.m */; };
 		D31850D81757F810008F840B /* loadCardDataAndCSVParsing.m in Sources */ = {isa = PBXBuildFile; fileRef = D31850D71757F810008F840B /* loadCardDataAndCSVParsing.m */; };
-		D341EEA4175944B900A27DD9 /* Advent of the Wurm.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE08175944B800A27DD9 /* Advent of the Wurm.full.jpg */; };
-		D341EEA5175944B900A27DD9 /* Aetherling.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE09175944B800A27DD9 /* Aetherling.full.jpg */; };
-		D341EEA6175944B900A27DD9 /* AliveWell.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE0A175944B800A27DD9 /* AliveWell.full.jpg */; };
-		D341EEA7175944B900A27DD9 /* ArmedDangerous.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE0B175944B800A27DD9 /* ArmedDangerous.full.jpg */; };
-		D341EEA8175944B900A27DD9 /* Armored Wolf-Rider.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE0C175944B800A27DD9 /* Armored Wolf-Rider.full.jpg */; };
-		D341EEA9175944B900A27DD9 /* Ascended Lawmage.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE0D175944B800A27DD9 /* Ascended Lawmage.full.jpg */; };
-		D341EEAA175944B900A27DD9 /* Awe for the Guilds.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE0E175944B800A27DD9 /* Awe for the Guilds.full.jpg */; };
-		D341EEAB175944B900A27DD9 /* Azorius Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE0F175944B800A27DD9 /* Azorius Cluestone.full.jpg */; };
-		D341EEAC175944B900A27DD9 /* Azorius Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE10175944B800A27DD9 /* Azorius Guildgate.full.jpg */; };
-		D341EEAD175944B900A27DD9 /* Bane Alley Blackguard.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE11175944B800A27DD9 /* Bane Alley Blackguard.full.jpg */; };
-		D341EEAE175944B900A27DD9 /* Battering Krasis.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE12175944B800A27DD9 /* Battering Krasis.full.jpg */; };
-		D341EEAF175944B900A27DD9 /* BeckCall.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE13175944B800A27DD9 /* BeckCall.full.jpg */; };
-		D341EEB0175944B900A27DD9 /* Beetleform Mage.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE14175944B800A27DD9 /* Beetleform Mage.full.jpg */; };
-		D341EEB1175944B900A27DD9 /* Blast of Genius.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE15175944B800A27DD9 /* Blast of Genius.full.jpg */; };
-		D341EEB2175944B900A27DD9 /* Blaze Commando.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE16175944B800A27DD9 /* Blaze Commando.full.jpg */; };
-		D341EEB3175944B900A27DD9 /* Blood Baron of Vizkopa.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE17175944B800A27DD9 /* Blood Baron of Vizkopa.full.jpg */; };
-		D341EEB4175944B900A27DD9 /* Blood Scrivener.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE18175944B800A27DD9 /* Blood Scrivener.full.jpg */; };
-		D341EEB5175944B900A27DD9 /* Boros Battleshaper.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE19175944B800A27DD9 /* Boros Battleshaper.full.jpg */; };
-		D341EEB6175944B900A27DD9 /* Boros Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE1A175944B800A27DD9 /* Boros Cluestone.full.jpg */; };
-		D341EEB7175944B900A27DD9 /* Boros Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE1B175944B800A27DD9 /* Boros Guildgate.full.jpg */; };
-		D341EEB8175944B900A27DD9 /* Boros Mastiff.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE1C175944B800A27DD9 /* Boros Mastiff.full.jpg */; };
-		D341EEB9175944B900A27DD9 /* BreakingEntering.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE1D175944B800A27DD9 /* BreakingEntering.full.jpg */; };
-		D341EEBA175944B900A27DD9 /* Bred for the Hunt.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE1E175944B800A27DD9 /* Bred for the Hunt.full.jpg */; };
-		D341EEBB175944B900A27DD9 /* Bronzebeak Moa.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE1F175944B800A27DD9 /* Bronzebeak Moa.full.jpg */; };
-		D341EEBC175944B900A27DD9 /* Carnage Gladiator.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE20175944B800A27DD9 /* Carnage Gladiator.full.jpg */; };
-		D341EEBD175944B900A27DD9 /* CatchRelease.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE21175944B800A27DD9 /* CatchRelease.full.jpg */; };
-		D341EEBE175944B900A27DD9 /* Clear a Path.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE22175944B800A27DD9 /* Clear a Path.full.jpg */; };
-		D341EEBF175944B900A27DD9 /* Council of the Absolute.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE23175944B800A27DD9 /* Council of the Absolute.full.jpg */; };
-		D341EEC0175944B900A27DD9 /* Crypt Incursion.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE24175944B900A27DD9 /* Crypt Incursion.full.jpg */; };
-		D341EEC1175944B900A27DD9 /* Deadbridge Chant.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE25175944B900A27DD9 /* Deadbridge Chant.full.jpg */; };
-		D341EEC2175944B900A27DD9 /* Debt to the Deathless.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE26175944B900A27DD9 /* Debt to the Deathless.full.jpg */; };
-		D341EEC3175944B900A27DD9 /* Deputy of Acquittals.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE27175944B900A27DD9 /* Deputy of Acquittals.full.jpg */; };
-		D341EEC4175944B900A27DD9 /* Dimir Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE28175944B900A27DD9 /* Dimir Cluestone.full.jpg */; };
-		D341EEC5175944B900A27DD9 /* Dimir Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE29175944B900A27DD9 /* Dimir Guildgate.full.jpg */; };
-		D341EEC6175944B900A27DD9 /* DownDirty.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE2A175944B900A27DD9 /* DownDirty.full.jpg */; };
-		D341EEC7175944B900A27DD9 /* Dragonshift.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE2B175944B900A27DD9 /* Dragonshift.full.jpg */; };
-		D341EEC8175944B900A27DD9 /* Drown in Filth.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE2C175944B900A27DD9 /* Drown in Filth.full.jpg */; };
-		D341EEC9175944B900A27DD9 /* Emmara Tandris.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE2D175944B900A27DD9 /* Emmara Tandris.full.jpg */; };
-		D341EECA175944B900A27DD9 /* Exava, Rakdos Blood Witch.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE2E175944B900A27DD9 /* Exava, Rakdos Blood Witch.full.jpg */; };
-		D341EECB175944B900A27DD9 /* FarAway.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE2F175944B900A27DD9 /* FarAway.full.jpg */; };
-		D341EECC175944B900A27DD9 /* Fatal Fumes.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE30175944B900A27DD9 /* Fatal Fumes.full.jpg */; };
-		D341EECD175944B900A27DD9 /* Feral Animist.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE31175944B900A27DD9 /* Feral Animist.full.jpg */; };
-		D341EECE175944B900A27DD9 /* FleshBlood.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE32175944B900A27DD9 /* FleshBlood.full.jpg */; };
-		D341EECF175944B900A27DD9 /* Fluxcharger.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE33175944B900A27DD9 /* Fluxcharger.full.jpg */; };
-		D341EED0175944B900A27DD9 /* Gaze of Granite.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE34175944B900A27DD9 /* Gaze of Granite.full.jpg */; };
-		D341EED1175944B900A27DD9 /* GiveTake.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE35175944B900A27DD9 /* GiveTake.full.jpg */; };
-		D341EED2175944B900A27DD9 /* Gleam of Battle.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE36175944B900A27DD9 /* Gleam of Battle.full.jpg */; };
-		D341EED3175944B900A27DD9 /* Goblin Test Pilot.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE37175944B900A27DD9 /* Goblin Test Pilot.full.jpg */; };
-		D341EED4175944B900A27DD9 /* Golgari Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE38175944B900A27DD9 /* Golgari Cluestone.full.jpg */; };
-		D341EED5175944B900A27DD9 /* Golgari Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE39175944B900A27DD9 /* Golgari Guildgate.full.jpg */; };
-		D341EED6175944B900A27DD9 /* Gruul Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE3A175944B900A27DD9 /* Gruul Cluestone.full.jpg */; };
-		D341EED7175944B900A27DD9 /* Gruul Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE3B175944B900A27DD9 /* Gruul Guildgate.full.jpg */; };
-		D341EED8175944B900A27DD9 /* Gruul War Chant.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE3C175944B900A27DD9 /* Gruul War Chant.full.jpg */; };
-		D341EED9175944B900A27DD9 /* Haazda Snare Squad.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE3D175944B900A27DD9 /* Haazda Snare Squad.full.jpg */; };
-		D341EEDA175944B900A27DD9 /* Haunter of Nightveil.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE3E175944B900A27DD9 /* Haunter of Nightveil.full.jpg */; };
-		D341EEDB175944B900A27DD9 /* Hidden Strings.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE3F175944B900A27DD9 /* Hidden Strings.full.jpg */; };
-		D341EEDC175944B900A27DD9 /* Hired Torturer.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE40175944B900A27DD9 /* Hired Torturer.full.jpg */; };
-		D341EEDD175944B900A27DD9 /* Izzet Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE41175944B900A27DD9 /* Izzet Cluestone.full.jpg */; };
-		D341EEDE175944B900A27DD9 /* Izzet Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE42175944B900A27DD9 /* Izzet Guildgate.full.jpg */; };
-		D341EEDF175944B900A27DD9 /* Jelenn Sphinx.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE43175944B900A27DD9 /* Jelenn Sphinx.full.jpg */; };
-		D341EEE0175944B900A27DD9 /* Korozda Gorgon.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE44175944B900A27DD9 /* Korozda Gorgon.full.jpg */; };
-		D341EEE1175944B900A27DD9 /* Krasis Incubation.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE45175944B900A27DD9 /* Krasis Incubation.full.jpg */; };
-		D341EEE2175944B900A27DD9 /* Kraul Warrior.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE46175944B900A27DD9 /* Kraul Warrior.full.jpg */; };
-		D341EEE3175944B900A27DD9 /* Lavinia of the Tenth.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE47175944B900A27DD9 /* Lavinia of the Tenth.full.jpg */; };
-		D341EEE4175944B900A27DD9 /* Legion's Initiative.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE48175944B900A27DD9 /* Legion's Initiative.full.jpg */; };
-		D341EEE5175944B900A27DD9 /* Lyev Decree.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE49175944B900A27DD9 /* Lyev Decree.full.jpg */; };
-		D341EEE6175944B900A27DD9 /* Master of Cruelties.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE4A175944B900A27DD9 /* Master of Cruelties.full.jpg */; };
-		D341EEE7175944B900A27DD9 /* Maw of the Obzedat.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE4B175944B900A27DD9 /* Maw of the Obzedat.full.jpg */; };
-		D341EEE8175944B900A27DD9 /* Maze Abomination.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE4C175944B900A27DD9 /* Maze Abomination.full.jpg */; };
-		D341EEE9175944B900A27DD9 /* Maze Behemoth.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE4D175944B900A27DD9 /* Maze Behemoth.full.jpg */; };
-		D341EEEA175944B900A27DD9 /* Maze Glider.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE4E175944B900A27DD9 /* Maze Glider.full.jpg */; };
-		D341EEEB175944B900A27DD9 /* Maze Rusher.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE4F175944B900A27DD9 /* Maze Rusher.full.jpg */; };
-		D341EEEC175944B900A27DD9 /* Maze Sentinel.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE50175944B900A27DD9 /* Maze Sentinel.full.jpg */; };
-		D341EEED175944B900A27DD9 /* Maze's End.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE51175944B900A27DD9 /* Maze's End.full.jpg */; };
-		D341EEEE175944B900A27DD9 /* Melek, Izzet Paragon.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE52175944B900A27DD9 /* Melek, Izzet Paragon.full.jpg */; };
-		D341EEEF175944B900A27DD9 /* Mending Touch.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE53175944B900A27DD9 /* Mending Touch.full.jpg */; };
-		D341EEF0175944B900A27DD9 /* Mindstatic.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE54175944B900A27DD9 /* Mindstatic.full.jpg */; };
-		D341EEF1175944B900A27DD9 /* Mirko Vosk, Mind Drinker.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE55175944B900A27DD9 /* Mirko Vosk, Mind Drinker.full.jpg */; };
-		D341EEF2175944B900A27DD9 /* Morgue Burst.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE56175944B900A27DD9 /* Morgue Burst.full.jpg */; };
-		D341EEF3175944B900A27DD9 /* Murmuring Phantasm.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE57175944B900A27DD9 /* Murmuring Phantasm.full.jpg */; };
-		D341EEF4175944B900A27DD9 /* Mutant's Prey.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE58175944B900A27DD9 /* Mutant's Prey.full.jpg */; };
-		D341EEF5175944B900A27DD9 /* Nivix Cyclops.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE59175944B900A27DD9 /* Nivix Cyclops.full.jpg */; };
-		D341EEF6175944B900A27DD9 /* Notion Thief.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE5A175944B900A27DD9 /* Notion Thief.full.jpg */; };
-		D341EEF7175944B900A27DD9 /* Obzedat's Aid.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE5B175944B900A27DD9 /* Obzedat's Aid.full.jpg */; };
-		D341EEF8175944B900A27DD9 /* Opal Lake Gatekeepers.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE5C175944B900A27DD9 /* Opal Lake Gatekeepers.full.jpg */; };
-		D341EEF9175944B900A27DD9 /* Orzhov Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE5D175944B900A27DD9 /* Orzhov Cluestone.full.jpg */; };
-		D341EEFA175944B900A27DD9 /* Orzhov Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE5E175944B900A27DD9 /* Orzhov Guildgate.full.jpg */; };
-		D341EEFB175944B900A27DD9 /* Phytoburst.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE5F175944B900A27DD9 /* Phytoburst.full.jpg */; };
-		D341EEFC175944B900A27DD9 /* Pilfered Plans.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE60175944B900A27DD9 /* Pilfered Plans.full.jpg */; };
-		D341EEFD175944B900A27DD9 /* Plasm Capture.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE61175944B900A27DD9 /* Plasm Capture.full.jpg */; };
-		D341EEFE175944B900A27DD9 /* Pontiff of Blight.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE62175944B900A27DD9 /* Pontiff of Blight.full.jpg */; };
-		D341EEFF175944B900A27DD9 /* Possibility Storm.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE63175944B900A27DD9 /* Possibility Storm.full.jpg */; };
-		D341EF00175944B900A27DD9 /* ProfitLoss.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE64175944B900A27DD9 /* ProfitLoss.full.jpg */; };
-		D341EF01175944B900A27DD9 /* Progenitor Mimic.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE65175944B900A27DD9 /* Progenitor Mimic.full.jpg */; };
-		D341EF02175944B900A27DD9 /* ProtectServe.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE66175944B900A27DD9 /* ProtectServe.full.jpg */; };
-		D341EF03175944B900A27DD9 /* Punish the Enemy.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE67175944B900A27DD9 /* Punish the Enemy.full.jpg */; };
-		D341EF04175944B900A27DD9 /* Putrefy.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE68175944B900A27DD9 /* Putrefy.full.jpg */; };
-		D341EF05175944B900A27DD9 /* Pyrewild Shaman.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE69175944B900A27DD9 /* Pyrewild Shaman.full.jpg */; };
-		D341EF06175944B900A27DD9 /* Rakdos Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE6A175944B900A27DD9 /* Rakdos Cluestone.full.jpg */; };
-		D341EF07175944B900A27DD9 /* Rakdos Drake.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE6B175944B900A27DD9 /* Rakdos Drake.full.jpg */; };
-		D341EF08175944B900A27DD9 /* Rakdos Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE6C175944B900A27DD9 /* Rakdos Guildgate.full.jpg */; };
-		D341EF09175944B900A27DD9 /* Ral Zarek.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE6D175944B900A27DD9 /* Ral Zarek.full.jpg */; };
-		D341EF0A175944B900A27DD9 /* ReadyWilling.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE6E175944B900A27DD9 /* ReadyWilling.full.jpg */; };
-		D341EF0B175944B900A27DD9 /* Reap Intellect.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE6F175944B900A27DD9 /* Reap Intellect.full.jpg */; };
-		D341EF0C175944B900A27DD9 /* Render Silent.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE70175944B900A27DD9 /* Render Silent.full.jpg */; };
-		D341EF0D175944B900A27DD9 /* Renegade Krasis.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE71175944B900A27DD9 /* Renegade Krasis.full.jpg */; };
-		D341EF0E175944B900A27DD9 /* Renounce the Guilds.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE72175944B900A27DD9 /* Renounce the Guilds.full.jpg */; };
-		D341EF0F175944B900A27DD9 /* Restore the Peace.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE73175944B900A27DD9 /* Restore the Peace.full.jpg */; };
-		D341EF10175944B900A27DD9 /* Riot Control.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE74175944B900A27DD9 /* Riot Control.full.jpg */; };
-		D341EF11175944B900A27DD9 /* Riot Piker.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE75175944B900A27DD9 /* Riot Piker.full.jpg */; };
-		D341EF12175944B900A27DD9 /* Rot Farm Skeleton.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE76175944B900A27DD9 /* Rot Farm Skeleton.full.jpg */; };
-		D341EF13175944B900A27DD9 /* Rubblebelt Maaka.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE77175944B900A27DD9 /* Rubblebelt Maaka.full.jpg */; };
-		D341EF14175944B900A27DD9 /* Runner's Bane.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE78175944B900A27DD9 /* Runner's Bane.full.jpg */; };
-		D341EF15175944B900A27DD9 /* Ruric Thar, the Unbowed.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE79175944B900A27DD9 /* Ruric Thar, the Unbowed.full.jpg */; };
-		D341EF16175944B900A27DD9 /* Saruli Gatekeepers.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE7A175944B900A27DD9 /* Saruli Gatekeepers.full.jpg */; };
-		D341EF17175944B900A27DD9 /* Savageborn Hydra.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE7B175944B900A27DD9 /* Savageborn Hydra.full.jpg */; };
-		D341EF18175944B900A27DD9 /* Scab-Clan Giant.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE7C175944B900A27DD9 /* Scab-Clan Giant.full.jpg */; };
-		D341EF19175944B900A27DD9 /* Scion of Vitu-Ghazi.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE7D175944B900A27DD9 /* Scion of Vitu-Ghazi.full.jpg */; };
-		D341EF1A175944B900A27DD9 /* Selesnya Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE7E175944B900A27DD9 /* Selesnya Cluestone.full.jpg */; };
-		D341EF1B175944B900A27DD9 /* Selesnya Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE7F175944B900A27DD9 /* Selesnya Guildgate.full.jpg */; };
-		D341EF1C175944B900A27DD9 /* Showstopper.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE80175944B900A27DD9 /* Showstopper.full.jpg */; };
-		D341EF1D175944B900A27DD9 /* Simic Cluestone.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE81175944B900A27DD9 /* Simic Cluestone.full.jpg */; };
-		D341EF1E175944B900A27DD9 /* Simic Guildgate.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE82175944B900A27DD9 /* Simic Guildgate.full.jpg */; };
-		D341EF1F175944B900A27DD9 /* Sin Collector.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE83175944B900A27DD9 /* Sin Collector.full.jpg */; };
-		D341EF20175944B900A27DD9 /* Sinister Possession.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE84175944B900A27DD9 /* Sinister Possession.full.jpg */; };
-		D341EF21175944B900A27DD9 /* Sire of Insanity.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE85175944B900A27DD9 /* Sire of Insanity.full.jpg */; };
-		D341EF22175944B900A27DD9 /* Skylasher.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE86175944B900A27DD9 /* Skylasher.full.jpg */; };
-		D341EF23175944B900A27DD9 /* Smelt-Ward Gatekeepers.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE87175944B900A27DD9 /* Smelt-Ward Gatekeepers.full.jpg */; };
-		D341EF24175944B900A27DD9 /* Species Gorger.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE88175944B900A27DD9 /* Species Gorger.full.jpg */; };
-		D341EF25175944B900A27DD9 /* Spike Jester.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE89175944B900A27DD9 /* Spike Jester.full.jpg */; };
-		D341EF26175944B900A27DD9 /* Steeple Roc.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE8A175944B900A27DD9 /* Steeple Roc.full.jpg */; };
-		D341EF27175944B900A27DD9 /* Sunspire Gatekeepers.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE8B175944B900A27DD9 /* Sunspire Gatekeepers.full.jpg */; };
-		D341EF28175944B900A27DD9 /* Tajic, Blade of the Legion.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE8C175944B900A27DD9 /* Tajic, Blade of the Legion.full.jpg */; };
-		D341EF29175944B900A27DD9 /* Teysa, Envoy of Ghosts.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE8D175944B900A27DD9 /* Teysa, Envoy of Ghosts.full.jpg */; };
-		D341EF2A175944B900A27DD9 /* Thrashing Mossdog.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE8E175944B900A27DD9 /* Thrashing Mossdog.full.jpg */; };
-		D341EF2B175944B900A27DD9 /* Tithe Drinker.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE8F175944B900A27DD9 /* Tithe Drinker.full.jpg */; };
-		D341EF2C175944B900A27DD9 /* ToilTrouble.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE90175944B900A27DD9 /* ToilTrouble.full.jpg */; };
-		D341EF2D175944B900A27DD9 /* Trait Doctoring.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE91175944B900A27DD9 /* Trait Doctoring.full.jpg */; };
-		D341EF2E175944B900A27DD9 /* Trostani's Summoner.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE92175944B900A27DD9 /* Trostani's Summoner.full.jpg */; };
-		D341EF2F175944B900A27DD9 /* TurnBurn.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE93175944B900A27DD9 /* TurnBurn.full.jpg */; };
-		D341EF30175944B900A27DD9 /* Ubul Sar Gatekeepers.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE94175944B900A27DD9 /* Ubul Sar Gatekeepers.full.jpg */; };
-		D341EF31175944B900A27DD9 /* Uncovered Clues.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE95175944B900A27DD9 /* Uncovered Clues.full.jpg */; };
-		D341EF32175944B900A27DD9 /* Unflinching Courage.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE96175944B900A27DD9 /* Unflinching Courage.full.jpg */; };
-		D341EF33175944B900A27DD9 /* Varolz, the Scar-Striped.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE97175944B900A27DD9 /* Varolz, the Scar-Striped.full.jpg */; };
-		D341EF34175944B900A27DD9 /* Viashino Firstblade.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE98175944B900A27DD9 /* Viashino Firstblade.full.jpg */; };
-		D341EF35175944B900A27DD9 /* Voice of Resurgence.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE99175944B900A27DD9 /* Voice of Resurgence.full.jpg */; };
-		D341EF36175944B900A27DD9 /* Vorel of the Hull Clade.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE9A175944B900A27DD9 /* Vorel of the Hull Clade.full.jpg */; };
-		D341EF37175944B900A27DD9 /* Wake the Reflections.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE9B175944B900A27DD9 /* Wake the Reflections.full.jpg */; };
-		D341EF38175944B900A27DD9 /* Warleader's Helix.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE9C175944B900A27DD9 /* Warleader's Helix.full.jpg */; };
-		D341EF39175944B900A27DD9 /* Warped Physique.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE9D175944B900A27DD9 /* Warped Physique.full.jpg */; };
-		D341EF3A175944B900A27DD9 /* Weapon Surge.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE9E175944B900A27DD9 /* Weapon Surge.full.jpg */; };
-		D341EF3B175944B900A27DD9 /* WearTear.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EE9F175944B900A27DD9 /* WearTear.full.jpg */; };
-		D341EF3C175944B900A27DD9 /* Wind Drake.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EEA0175944B900A27DD9 /* Wind Drake.full.jpg */; };
-		D341EF3D175944B900A27DD9 /* Woodlot Crawler.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EEA1175944B900A27DD9 /* Woodlot Crawler.full.jpg */; };
-		D341EF3E175944B900A27DD9 /* Zhur-Taa Ancient.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EEA2175944B900A27DD9 /* Zhur-Taa Ancient.full.jpg */; };
-		D341EF3F175944B900A27DD9 /* Zhur-Taa Druid.full.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D341EEA3175944B900A27DD9 /* Zhur-Taa Druid.full.jpg */; };
-		D341EF41175944DD00A27DD9 /* DGM.csv in Resources */ = {isa = PBXBuildFile; fileRef = D341EF40175944DD00A27DD9 /* DGM.csv */; };
+		D39C6B22175BA5050094457C /* savetest.txt in Resources */ = {isa = PBXBuildFile; fileRef = D39C6B21175BA5050094457C /* savetest.txt */; };
+		D39C6B25175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D39C6B24175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m */; };
 		D3BD12A817569A1E00A3FA85 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3BD12A717569A1E00A3FA85 /* UIKit.framework */; };
 		D3BD12AA17569A1E00A3FA85 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3BD12A917569A1E00A3FA85 /* Foundation.framework */; };
 		D3BD12AC17569A1E00A3FA85 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3BD12AB17569A1E00A3FA85 /* CoreGraphics.framework */; };
@@ -200,163 +45,9 @@
 		D318507B175792D1008F840B /* BCMagicCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCMagicCard.m; sourceTree = "<group>"; };
 		D31850D61757F810008F840B /* loadCardDataAndCSVParsing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = loadCardDataAndCSVParsing.h; sourceTree = "<group>"; };
 		D31850D71757F810008F840B /* loadCardDataAndCSVParsing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = loadCardDataAndCSVParsing.m; sourceTree = "<group>"; };
-		D341EE08175944B800A27DD9 /* Advent of the Wurm.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Advent of the Wurm.full.jpg"; sourceTree = "<group>"; };
-		D341EE09175944B800A27DD9 /* Aetherling.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aetherling.full.jpg; sourceTree = "<group>"; };
-		D341EE0A175944B800A27DD9 /* AliveWell.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AliveWell.full.jpg; sourceTree = "<group>"; };
-		D341EE0B175944B800A27DD9 /* ArmedDangerous.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ArmedDangerous.full.jpg; sourceTree = "<group>"; };
-		D341EE0C175944B800A27DD9 /* Armored Wolf-Rider.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Armored Wolf-Rider.full.jpg"; sourceTree = "<group>"; };
-		D341EE0D175944B800A27DD9 /* Ascended Lawmage.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ascended Lawmage.full.jpg"; sourceTree = "<group>"; };
-		D341EE0E175944B800A27DD9 /* Awe for the Guilds.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Awe for the Guilds.full.jpg"; sourceTree = "<group>"; };
-		D341EE0F175944B800A27DD9 /* Azorius Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Azorius Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE10175944B800A27DD9 /* Azorius Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Azorius Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE11175944B800A27DD9 /* Bane Alley Blackguard.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bane Alley Blackguard.full.jpg"; sourceTree = "<group>"; };
-		D341EE12175944B800A27DD9 /* Battering Krasis.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Battering Krasis.full.jpg"; sourceTree = "<group>"; };
-		D341EE13175944B800A27DD9 /* BeckCall.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BeckCall.full.jpg; sourceTree = "<group>"; };
-		D341EE14175944B800A27DD9 /* Beetleform Mage.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Beetleform Mage.full.jpg"; sourceTree = "<group>"; };
-		D341EE15175944B800A27DD9 /* Blast of Genius.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blast of Genius.full.jpg"; sourceTree = "<group>"; };
-		D341EE16175944B800A27DD9 /* Blaze Commando.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blaze Commando.full.jpg"; sourceTree = "<group>"; };
-		D341EE17175944B800A27DD9 /* Blood Baron of Vizkopa.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blood Baron of Vizkopa.full.jpg"; sourceTree = "<group>"; };
-		D341EE18175944B800A27DD9 /* Blood Scrivener.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blood Scrivener.full.jpg"; sourceTree = "<group>"; };
-		D341EE19175944B800A27DD9 /* Boros Battleshaper.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Boros Battleshaper.full.jpg"; sourceTree = "<group>"; };
-		D341EE1A175944B800A27DD9 /* Boros Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Boros Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE1B175944B800A27DD9 /* Boros Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Boros Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE1C175944B800A27DD9 /* Boros Mastiff.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Boros Mastiff.full.jpg"; sourceTree = "<group>"; };
-		D341EE1D175944B800A27DD9 /* BreakingEntering.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BreakingEntering.full.jpg; sourceTree = "<group>"; };
-		D341EE1E175944B800A27DD9 /* Bred for the Hunt.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bred for the Hunt.full.jpg"; sourceTree = "<group>"; };
-		D341EE1F175944B800A27DD9 /* Bronzebeak Moa.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bronzebeak Moa.full.jpg"; sourceTree = "<group>"; };
-		D341EE20175944B800A27DD9 /* Carnage Gladiator.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Carnage Gladiator.full.jpg"; sourceTree = "<group>"; };
-		D341EE21175944B800A27DD9 /* CatchRelease.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CatchRelease.full.jpg; sourceTree = "<group>"; };
-		D341EE22175944B800A27DD9 /* Clear a Path.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Clear a Path.full.jpg"; sourceTree = "<group>"; };
-		D341EE23175944B800A27DD9 /* Council of the Absolute.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Council of the Absolute.full.jpg"; sourceTree = "<group>"; };
-		D341EE24175944B900A27DD9 /* Crypt Incursion.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Crypt Incursion.full.jpg"; sourceTree = "<group>"; };
-		D341EE25175944B900A27DD9 /* Deadbridge Chant.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Deadbridge Chant.full.jpg"; sourceTree = "<group>"; };
-		D341EE26175944B900A27DD9 /* Debt to the Deathless.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Debt to the Deathless.full.jpg"; sourceTree = "<group>"; };
-		D341EE27175944B900A27DD9 /* Deputy of Acquittals.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Deputy of Acquittals.full.jpg"; sourceTree = "<group>"; };
-		D341EE28175944B900A27DD9 /* Dimir Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dimir Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE29175944B900A27DD9 /* Dimir Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dimir Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE2A175944B900A27DD9 /* DownDirty.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DownDirty.full.jpg; sourceTree = "<group>"; };
-		D341EE2B175944B900A27DD9 /* Dragonshift.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dragonshift.full.jpg; sourceTree = "<group>"; };
-		D341EE2C175944B900A27DD9 /* Drown in Filth.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Drown in Filth.full.jpg"; sourceTree = "<group>"; };
-		D341EE2D175944B900A27DD9 /* Emmara Tandris.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Emmara Tandris.full.jpg"; sourceTree = "<group>"; };
-		D341EE2E175944B900A27DD9 /* Exava, Rakdos Blood Witch.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Exava, Rakdos Blood Witch.full.jpg"; sourceTree = "<group>"; };
-		D341EE2F175944B900A27DD9 /* FarAway.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FarAway.full.jpg; sourceTree = "<group>"; };
-		D341EE30175944B900A27DD9 /* Fatal Fumes.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fatal Fumes.full.jpg"; sourceTree = "<group>"; };
-		D341EE31175944B900A27DD9 /* Feral Animist.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Feral Animist.full.jpg"; sourceTree = "<group>"; };
-		D341EE32175944B900A27DD9 /* FleshBlood.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FleshBlood.full.jpg; sourceTree = "<group>"; };
-		D341EE33175944B900A27DD9 /* Fluxcharger.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fluxcharger.full.jpg; sourceTree = "<group>"; };
-		D341EE34175944B900A27DD9 /* Gaze of Granite.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gaze of Granite.full.jpg"; sourceTree = "<group>"; };
-		D341EE35175944B900A27DD9 /* GiveTake.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = GiveTake.full.jpg; sourceTree = "<group>"; };
-		D341EE36175944B900A27DD9 /* Gleam of Battle.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gleam of Battle.full.jpg"; sourceTree = "<group>"; };
-		D341EE37175944B900A27DD9 /* Goblin Test Pilot.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Goblin Test Pilot.full.jpg"; sourceTree = "<group>"; };
-		D341EE38175944B900A27DD9 /* Golgari Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Golgari Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE39175944B900A27DD9 /* Golgari Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Golgari Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE3A175944B900A27DD9 /* Gruul Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gruul Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE3B175944B900A27DD9 /* Gruul Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gruul Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE3C175944B900A27DD9 /* Gruul War Chant.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gruul War Chant.full.jpg"; sourceTree = "<group>"; };
-		D341EE3D175944B900A27DD9 /* Haazda Snare Squad.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Haazda Snare Squad.full.jpg"; sourceTree = "<group>"; };
-		D341EE3E175944B900A27DD9 /* Haunter of Nightveil.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Haunter of Nightveil.full.jpg"; sourceTree = "<group>"; };
-		D341EE3F175944B900A27DD9 /* Hidden Strings.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Hidden Strings.full.jpg"; sourceTree = "<group>"; };
-		D341EE40175944B900A27DD9 /* Hired Torturer.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Hired Torturer.full.jpg"; sourceTree = "<group>"; };
-		D341EE41175944B900A27DD9 /* Izzet Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Izzet Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE42175944B900A27DD9 /* Izzet Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Izzet Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE43175944B900A27DD9 /* Jelenn Sphinx.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jelenn Sphinx.full.jpg"; sourceTree = "<group>"; };
-		D341EE44175944B900A27DD9 /* Korozda Gorgon.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Korozda Gorgon.full.jpg"; sourceTree = "<group>"; };
-		D341EE45175944B900A27DD9 /* Krasis Incubation.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Krasis Incubation.full.jpg"; sourceTree = "<group>"; };
-		D341EE46175944B900A27DD9 /* Kraul Warrior.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kraul Warrior.full.jpg"; sourceTree = "<group>"; };
-		D341EE47175944B900A27DD9 /* Lavinia of the Tenth.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lavinia of the Tenth.full.jpg"; sourceTree = "<group>"; };
-		D341EE48175944B900A27DD9 /* Legion's Initiative.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Legion's Initiative.full.jpg"; sourceTree = "<group>"; };
-		D341EE49175944B900A27DD9 /* Lyev Decree.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lyev Decree.full.jpg"; sourceTree = "<group>"; };
-		D341EE4A175944B900A27DD9 /* Master of Cruelties.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Master of Cruelties.full.jpg"; sourceTree = "<group>"; };
-		D341EE4B175944B900A27DD9 /* Maw of the Obzedat.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Maw of the Obzedat.full.jpg"; sourceTree = "<group>"; };
-		D341EE4C175944B900A27DD9 /* Maze Abomination.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Maze Abomination.full.jpg"; sourceTree = "<group>"; };
-		D341EE4D175944B900A27DD9 /* Maze Behemoth.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Maze Behemoth.full.jpg"; sourceTree = "<group>"; };
-		D341EE4E175944B900A27DD9 /* Maze Glider.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Maze Glider.full.jpg"; sourceTree = "<group>"; };
-		D341EE4F175944B900A27DD9 /* Maze Rusher.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Maze Rusher.full.jpg"; sourceTree = "<group>"; };
-		D341EE50175944B900A27DD9 /* Maze Sentinel.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Maze Sentinel.full.jpg"; sourceTree = "<group>"; };
-		D341EE51175944B900A27DD9 /* Maze's End.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Maze's End.full.jpg"; sourceTree = "<group>"; };
-		D341EE52175944B900A27DD9 /* Melek, Izzet Paragon.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Melek, Izzet Paragon.full.jpg"; sourceTree = "<group>"; };
-		D341EE53175944B900A27DD9 /* Mending Touch.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mending Touch.full.jpg"; sourceTree = "<group>"; };
-		D341EE54175944B900A27DD9 /* Mindstatic.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mindstatic.full.jpg; sourceTree = "<group>"; };
-		D341EE55175944B900A27DD9 /* Mirko Vosk, Mind Drinker.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mirko Vosk, Mind Drinker.full.jpg"; sourceTree = "<group>"; };
-		D341EE56175944B900A27DD9 /* Morgue Burst.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Morgue Burst.full.jpg"; sourceTree = "<group>"; };
-		D341EE57175944B900A27DD9 /* Murmuring Phantasm.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Murmuring Phantasm.full.jpg"; sourceTree = "<group>"; };
-		D341EE58175944B900A27DD9 /* Mutant's Prey.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mutant's Prey.full.jpg"; sourceTree = "<group>"; };
-		D341EE59175944B900A27DD9 /* Nivix Cyclops.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Nivix Cyclops.full.jpg"; sourceTree = "<group>"; };
-		D341EE5A175944B900A27DD9 /* Notion Thief.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Notion Thief.full.jpg"; sourceTree = "<group>"; };
-		D341EE5B175944B900A27DD9 /* Obzedat's Aid.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Obzedat's Aid.full.jpg"; sourceTree = "<group>"; };
-		D341EE5C175944B900A27DD9 /* Opal Lake Gatekeepers.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Opal Lake Gatekeepers.full.jpg"; sourceTree = "<group>"; };
-		D341EE5D175944B900A27DD9 /* Orzhov Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Orzhov Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE5E175944B900A27DD9 /* Orzhov Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Orzhov Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE5F175944B900A27DD9 /* Phytoburst.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Phytoburst.full.jpg; sourceTree = "<group>"; };
-		D341EE60175944B900A27DD9 /* Pilfered Plans.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pilfered Plans.full.jpg"; sourceTree = "<group>"; };
-		D341EE61175944B900A27DD9 /* Plasm Capture.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Plasm Capture.full.jpg"; sourceTree = "<group>"; };
-		D341EE62175944B900A27DD9 /* Pontiff of Blight.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pontiff of Blight.full.jpg"; sourceTree = "<group>"; };
-		D341EE63175944B900A27DD9 /* Possibility Storm.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Possibility Storm.full.jpg"; sourceTree = "<group>"; };
-		D341EE64175944B900A27DD9 /* ProfitLoss.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ProfitLoss.full.jpg; sourceTree = "<group>"; };
-		D341EE65175944B900A27DD9 /* Progenitor Mimic.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Progenitor Mimic.full.jpg"; sourceTree = "<group>"; };
-		D341EE66175944B900A27DD9 /* ProtectServe.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ProtectServe.full.jpg; sourceTree = "<group>"; };
-		D341EE67175944B900A27DD9 /* Punish the Enemy.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Punish the Enemy.full.jpg"; sourceTree = "<group>"; };
-		D341EE68175944B900A27DD9 /* Putrefy.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Putrefy.full.jpg; sourceTree = "<group>"; };
-		D341EE69175944B900A27DD9 /* Pyrewild Shaman.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pyrewild Shaman.full.jpg"; sourceTree = "<group>"; };
-		D341EE6A175944B900A27DD9 /* Rakdos Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rakdos Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE6B175944B900A27DD9 /* Rakdos Drake.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rakdos Drake.full.jpg"; sourceTree = "<group>"; };
-		D341EE6C175944B900A27DD9 /* Rakdos Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rakdos Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE6D175944B900A27DD9 /* Ral Zarek.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ral Zarek.full.jpg"; sourceTree = "<group>"; };
-		D341EE6E175944B900A27DD9 /* ReadyWilling.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ReadyWilling.full.jpg; sourceTree = "<group>"; };
-		D341EE6F175944B900A27DD9 /* Reap Intellect.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Reap Intellect.full.jpg"; sourceTree = "<group>"; };
-		D341EE70175944B900A27DD9 /* Render Silent.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Render Silent.full.jpg"; sourceTree = "<group>"; };
-		D341EE71175944B900A27DD9 /* Renegade Krasis.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Renegade Krasis.full.jpg"; sourceTree = "<group>"; };
-		D341EE72175944B900A27DD9 /* Renounce the Guilds.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Renounce the Guilds.full.jpg"; sourceTree = "<group>"; };
-		D341EE73175944B900A27DD9 /* Restore the Peace.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Restore the Peace.full.jpg"; sourceTree = "<group>"; };
-		D341EE74175944B900A27DD9 /* Riot Control.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Riot Control.full.jpg"; sourceTree = "<group>"; };
-		D341EE75175944B900A27DD9 /* Riot Piker.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Riot Piker.full.jpg"; sourceTree = "<group>"; };
-		D341EE76175944B900A27DD9 /* Rot Farm Skeleton.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rot Farm Skeleton.full.jpg"; sourceTree = "<group>"; };
-		D341EE77175944B900A27DD9 /* Rubblebelt Maaka.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rubblebelt Maaka.full.jpg"; sourceTree = "<group>"; };
-		D341EE78175944B900A27DD9 /* Runner's Bane.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Runner's Bane.full.jpg"; sourceTree = "<group>"; };
-		D341EE79175944B900A27DD9 /* Ruric Thar, the Unbowed.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ruric Thar, the Unbowed.full.jpg"; sourceTree = "<group>"; };
-		D341EE7A175944B900A27DD9 /* Saruli Gatekeepers.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Saruli Gatekeepers.full.jpg"; sourceTree = "<group>"; };
-		D341EE7B175944B900A27DD9 /* Savageborn Hydra.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Savageborn Hydra.full.jpg"; sourceTree = "<group>"; };
-		D341EE7C175944B900A27DD9 /* Scab-Clan Giant.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Scab-Clan Giant.full.jpg"; sourceTree = "<group>"; };
-		D341EE7D175944B900A27DD9 /* Scion of Vitu-Ghazi.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Scion of Vitu-Ghazi.full.jpg"; sourceTree = "<group>"; };
-		D341EE7E175944B900A27DD9 /* Selesnya Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Selesnya Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE7F175944B900A27DD9 /* Selesnya Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Selesnya Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE80175944B900A27DD9 /* Showstopper.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Showstopper.full.jpg; sourceTree = "<group>"; };
-		D341EE81175944B900A27DD9 /* Simic Cluestone.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Simic Cluestone.full.jpg"; sourceTree = "<group>"; };
-		D341EE82175944B900A27DD9 /* Simic Guildgate.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Simic Guildgate.full.jpg"; sourceTree = "<group>"; };
-		D341EE83175944B900A27DD9 /* Sin Collector.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sin Collector.full.jpg"; sourceTree = "<group>"; };
-		D341EE84175944B900A27DD9 /* Sinister Possession.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sinister Possession.full.jpg"; sourceTree = "<group>"; };
-		D341EE85175944B900A27DD9 /* Sire of Insanity.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sire of Insanity.full.jpg"; sourceTree = "<group>"; };
-		D341EE86175944B900A27DD9 /* Skylasher.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Skylasher.full.jpg; sourceTree = "<group>"; };
-		D341EE87175944B900A27DD9 /* Smelt-Ward Gatekeepers.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Smelt-Ward Gatekeepers.full.jpg"; sourceTree = "<group>"; };
-		D341EE88175944B900A27DD9 /* Species Gorger.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Species Gorger.full.jpg"; sourceTree = "<group>"; };
-		D341EE89175944B900A27DD9 /* Spike Jester.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spike Jester.full.jpg"; sourceTree = "<group>"; };
-		D341EE8A175944B900A27DD9 /* Steeple Roc.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Steeple Roc.full.jpg"; sourceTree = "<group>"; };
-		D341EE8B175944B900A27DD9 /* Sunspire Gatekeepers.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sunspire Gatekeepers.full.jpg"; sourceTree = "<group>"; };
-		D341EE8C175944B900A27DD9 /* Tajic, Blade of the Legion.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Tajic, Blade of the Legion.full.jpg"; sourceTree = "<group>"; };
-		D341EE8D175944B900A27DD9 /* Teysa, Envoy of Ghosts.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Teysa, Envoy of Ghosts.full.jpg"; sourceTree = "<group>"; };
-		D341EE8E175944B900A27DD9 /* Thrashing Mossdog.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Thrashing Mossdog.full.jpg"; sourceTree = "<group>"; };
-		D341EE8F175944B900A27DD9 /* Tithe Drinker.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Tithe Drinker.full.jpg"; sourceTree = "<group>"; };
-		D341EE90175944B900A27DD9 /* ToilTrouble.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ToilTrouble.full.jpg; sourceTree = "<group>"; };
-		D341EE91175944B900A27DD9 /* Trait Doctoring.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Trait Doctoring.full.jpg"; sourceTree = "<group>"; };
-		D341EE92175944B900A27DD9 /* Trostani's Summoner.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Trostani's Summoner.full.jpg"; sourceTree = "<group>"; };
-		D341EE93175944B900A27DD9 /* TurnBurn.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = TurnBurn.full.jpg; sourceTree = "<group>"; };
-		D341EE94175944B900A27DD9 /* Ubul Sar Gatekeepers.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ubul Sar Gatekeepers.full.jpg"; sourceTree = "<group>"; };
-		D341EE95175944B900A27DD9 /* Uncovered Clues.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Uncovered Clues.full.jpg"; sourceTree = "<group>"; };
-		D341EE96175944B900A27DD9 /* Unflinching Courage.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unflinching Courage.full.jpg"; sourceTree = "<group>"; };
-		D341EE97175944B900A27DD9 /* Varolz, the Scar-Striped.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Varolz, the Scar-Striped.full.jpg"; sourceTree = "<group>"; };
-		D341EE98175944B900A27DD9 /* Viashino Firstblade.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Viashino Firstblade.full.jpg"; sourceTree = "<group>"; };
-		D341EE99175944B900A27DD9 /* Voice of Resurgence.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Voice of Resurgence.full.jpg"; sourceTree = "<group>"; };
-		D341EE9A175944B900A27DD9 /* Vorel of the Hull Clade.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Vorel of the Hull Clade.full.jpg"; sourceTree = "<group>"; };
-		D341EE9B175944B900A27DD9 /* Wake the Reflections.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wake the Reflections.full.jpg"; sourceTree = "<group>"; };
-		D341EE9C175944B900A27DD9 /* Warleader's Helix.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Warleader's Helix.full.jpg"; sourceTree = "<group>"; };
-		D341EE9D175944B900A27DD9 /* Warped Physique.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Warped Physique.full.jpg"; sourceTree = "<group>"; };
-		D341EE9E175944B900A27DD9 /* Weapon Surge.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Weapon Surge.full.jpg"; sourceTree = "<group>"; };
-		D341EE9F175944B900A27DD9 /* WearTear.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WearTear.full.jpg; sourceTree = "<group>"; };
-		D341EEA0175944B900A27DD9 /* Wind Drake.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wind Drake.full.jpg"; sourceTree = "<group>"; };
-		D341EEA1175944B900A27DD9 /* Woodlot Crawler.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Woodlot Crawler.full.jpg"; sourceTree = "<group>"; };
-		D341EEA2175944B900A27DD9 /* Zhur-Taa Ancient.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Zhur-Taa Ancient.full.jpg"; sourceTree = "<group>"; };
-		D341EEA3175944B900A27DD9 /* Zhur-Taa Druid.full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Zhur-Taa Druid.full.jpg"; sourceTree = "<group>"; };
-		D341EF40175944DD00A27DD9 /* DGM.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = DGM.csv; path = ../DGM.csv; sourceTree = "<group>"; };
+		D39C6B21175BA5050094457C /* savetest.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = savetest.txt; path = ../savetest.txt; sourceTree = "<group>"; };
+		D39C6B23175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCFullDatabaseSearchTableViewController.h; sourceTree = "<group>"; };
+		D39C6B24175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCFullDatabaseSearchTableViewController.m; sourceTree = "<group>"; };
 		D3BD12A417569A1E00A3FA85 /* MTG Card Database.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MTG Card Database.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3BD12A717569A1E00A3FA85 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D3BD12A917569A1E00A3FA85 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -410,7 +101,7 @@
 		D318507D1757BEB3008F840B /* CSV Files */ = {
 			isa = PBXGroup;
 			children = (
-				D341EF40175944DD00A27DD9 /* DGM.csv */,
+				D39C6B21175BA5050094457C /* savetest.txt */,
 			);
 			name = "CSV Files";
 			sourceTree = "<group>";
@@ -422,6 +113,8 @@
 				D3BD12C317569A1E00A3FA85 /* ViewController.m */,
 				D3BD12E217569D4A00A3FA85 /* BCCardInfoViewController.h */,
 				D3BD12E317569D4A00A3FA85 /* BCCardInfoViewController.m */,
+				D39C6B23175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.h */,
+				D39C6B24175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -444,169 +137,6 @@
 				D318507B175792D1008F840B /* BCMagicCard.m */,
 			);
 			name = BCMagicCard;
-			sourceTree = "<group>";
-		};
-		D341EE07175944B800A27DD9 /* DGM */ = {
-			isa = PBXGroup;
-			children = (
-				D341EE08175944B800A27DD9 /* Advent of the Wurm.full.jpg */,
-				D341EE09175944B800A27DD9 /* Aetherling.full.jpg */,
-				D341EE0A175944B800A27DD9 /* AliveWell.full.jpg */,
-				D341EE0B175944B800A27DD9 /* ArmedDangerous.full.jpg */,
-				D341EE0C175944B800A27DD9 /* Armored Wolf-Rider.full.jpg */,
-				D341EE0D175944B800A27DD9 /* Ascended Lawmage.full.jpg */,
-				D341EE0E175944B800A27DD9 /* Awe for the Guilds.full.jpg */,
-				D341EE0F175944B800A27DD9 /* Azorius Cluestone.full.jpg */,
-				D341EE10175944B800A27DD9 /* Azorius Guildgate.full.jpg */,
-				D341EE11175944B800A27DD9 /* Bane Alley Blackguard.full.jpg */,
-				D341EE12175944B800A27DD9 /* Battering Krasis.full.jpg */,
-				D341EE13175944B800A27DD9 /* BeckCall.full.jpg */,
-				D341EE14175944B800A27DD9 /* Beetleform Mage.full.jpg */,
-				D341EE15175944B800A27DD9 /* Blast of Genius.full.jpg */,
-				D341EE16175944B800A27DD9 /* Blaze Commando.full.jpg */,
-				D341EE17175944B800A27DD9 /* Blood Baron of Vizkopa.full.jpg */,
-				D341EE18175944B800A27DD9 /* Blood Scrivener.full.jpg */,
-				D341EE19175944B800A27DD9 /* Boros Battleshaper.full.jpg */,
-				D341EE1A175944B800A27DD9 /* Boros Cluestone.full.jpg */,
-				D341EE1B175944B800A27DD9 /* Boros Guildgate.full.jpg */,
-				D341EE1C175944B800A27DD9 /* Boros Mastiff.full.jpg */,
-				D341EE1D175944B800A27DD9 /* BreakingEntering.full.jpg */,
-				D341EE1E175944B800A27DD9 /* Bred for the Hunt.full.jpg */,
-				D341EE1F175944B800A27DD9 /* Bronzebeak Moa.full.jpg */,
-				D341EE20175944B800A27DD9 /* Carnage Gladiator.full.jpg */,
-				D341EE21175944B800A27DD9 /* CatchRelease.full.jpg */,
-				D341EE22175944B800A27DD9 /* Clear a Path.full.jpg */,
-				D341EE23175944B800A27DD9 /* Council of the Absolute.full.jpg */,
-				D341EE24175944B900A27DD9 /* Crypt Incursion.full.jpg */,
-				D341EE25175944B900A27DD9 /* Deadbridge Chant.full.jpg */,
-				D341EE26175944B900A27DD9 /* Debt to the Deathless.full.jpg */,
-				D341EE27175944B900A27DD9 /* Deputy of Acquittals.full.jpg */,
-				D341EE28175944B900A27DD9 /* Dimir Cluestone.full.jpg */,
-				D341EE29175944B900A27DD9 /* Dimir Guildgate.full.jpg */,
-				D341EE2A175944B900A27DD9 /* DownDirty.full.jpg */,
-				D341EE2B175944B900A27DD9 /* Dragonshift.full.jpg */,
-				D341EE2C175944B900A27DD9 /* Drown in Filth.full.jpg */,
-				D341EE2D175944B900A27DD9 /* Emmara Tandris.full.jpg */,
-				D341EE2E175944B900A27DD9 /* Exava, Rakdos Blood Witch.full.jpg */,
-				D341EE2F175944B900A27DD9 /* FarAway.full.jpg */,
-				D341EE30175944B900A27DD9 /* Fatal Fumes.full.jpg */,
-				D341EE31175944B900A27DD9 /* Feral Animist.full.jpg */,
-				D341EE32175944B900A27DD9 /* FleshBlood.full.jpg */,
-				D341EE33175944B900A27DD9 /* Fluxcharger.full.jpg */,
-				D341EE34175944B900A27DD9 /* Gaze of Granite.full.jpg */,
-				D341EE35175944B900A27DD9 /* GiveTake.full.jpg */,
-				D341EE36175944B900A27DD9 /* Gleam of Battle.full.jpg */,
-				D341EE37175944B900A27DD9 /* Goblin Test Pilot.full.jpg */,
-				D341EE38175944B900A27DD9 /* Golgari Cluestone.full.jpg */,
-				D341EE39175944B900A27DD9 /* Golgari Guildgate.full.jpg */,
-				D341EE3A175944B900A27DD9 /* Gruul Cluestone.full.jpg */,
-				D341EE3B175944B900A27DD9 /* Gruul Guildgate.full.jpg */,
-				D341EE3C175944B900A27DD9 /* Gruul War Chant.full.jpg */,
-				D341EE3D175944B900A27DD9 /* Haazda Snare Squad.full.jpg */,
-				D341EE3E175944B900A27DD9 /* Haunter of Nightveil.full.jpg */,
-				D341EE3F175944B900A27DD9 /* Hidden Strings.full.jpg */,
-				D341EE40175944B900A27DD9 /* Hired Torturer.full.jpg */,
-				D341EE41175944B900A27DD9 /* Izzet Cluestone.full.jpg */,
-				D341EE42175944B900A27DD9 /* Izzet Guildgate.full.jpg */,
-				D341EE43175944B900A27DD9 /* Jelenn Sphinx.full.jpg */,
-				D341EE44175944B900A27DD9 /* Korozda Gorgon.full.jpg */,
-				D341EE45175944B900A27DD9 /* Krasis Incubation.full.jpg */,
-				D341EE46175944B900A27DD9 /* Kraul Warrior.full.jpg */,
-				D341EE47175944B900A27DD9 /* Lavinia of the Tenth.full.jpg */,
-				D341EE48175944B900A27DD9 /* Legion's Initiative.full.jpg */,
-				D341EE49175944B900A27DD9 /* Lyev Decree.full.jpg */,
-				D341EE4A175944B900A27DD9 /* Master of Cruelties.full.jpg */,
-				D341EE4B175944B900A27DD9 /* Maw of the Obzedat.full.jpg */,
-				D341EE4C175944B900A27DD9 /* Maze Abomination.full.jpg */,
-				D341EE4D175944B900A27DD9 /* Maze Behemoth.full.jpg */,
-				D341EE4E175944B900A27DD9 /* Maze Glider.full.jpg */,
-				D341EE4F175944B900A27DD9 /* Maze Rusher.full.jpg */,
-				D341EE50175944B900A27DD9 /* Maze Sentinel.full.jpg */,
-				D341EE51175944B900A27DD9 /* Maze's End.full.jpg */,
-				D341EE52175944B900A27DD9 /* Melek, Izzet Paragon.full.jpg */,
-				D341EE53175944B900A27DD9 /* Mending Touch.full.jpg */,
-				D341EE54175944B900A27DD9 /* Mindstatic.full.jpg */,
-				D341EE55175944B900A27DD9 /* Mirko Vosk, Mind Drinker.full.jpg */,
-				D341EE56175944B900A27DD9 /* Morgue Burst.full.jpg */,
-				D341EE57175944B900A27DD9 /* Murmuring Phantasm.full.jpg */,
-				D341EE58175944B900A27DD9 /* Mutant's Prey.full.jpg */,
-				D341EE59175944B900A27DD9 /* Nivix Cyclops.full.jpg */,
-				D341EE5A175944B900A27DD9 /* Notion Thief.full.jpg */,
-				D341EE5B175944B900A27DD9 /* Obzedat's Aid.full.jpg */,
-				D341EE5C175944B900A27DD9 /* Opal Lake Gatekeepers.full.jpg */,
-				D341EE5D175944B900A27DD9 /* Orzhov Cluestone.full.jpg */,
-				D341EE5E175944B900A27DD9 /* Orzhov Guildgate.full.jpg */,
-				D341EE5F175944B900A27DD9 /* Phytoburst.full.jpg */,
-				D341EE60175944B900A27DD9 /* Pilfered Plans.full.jpg */,
-				D341EE61175944B900A27DD9 /* Plasm Capture.full.jpg */,
-				D341EE62175944B900A27DD9 /* Pontiff of Blight.full.jpg */,
-				D341EE63175944B900A27DD9 /* Possibility Storm.full.jpg */,
-				D341EE64175944B900A27DD9 /* ProfitLoss.full.jpg */,
-				D341EE65175944B900A27DD9 /* Progenitor Mimic.full.jpg */,
-				D341EE66175944B900A27DD9 /* ProtectServe.full.jpg */,
-				D341EE67175944B900A27DD9 /* Punish the Enemy.full.jpg */,
-				D341EE68175944B900A27DD9 /* Putrefy.full.jpg */,
-				D341EE69175944B900A27DD9 /* Pyrewild Shaman.full.jpg */,
-				D341EE6A175944B900A27DD9 /* Rakdos Cluestone.full.jpg */,
-				D341EE6B175944B900A27DD9 /* Rakdos Drake.full.jpg */,
-				D341EE6C175944B900A27DD9 /* Rakdos Guildgate.full.jpg */,
-				D341EE6D175944B900A27DD9 /* Ral Zarek.full.jpg */,
-				D341EE6E175944B900A27DD9 /* ReadyWilling.full.jpg */,
-				D341EE6F175944B900A27DD9 /* Reap Intellect.full.jpg */,
-				D341EE70175944B900A27DD9 /* Render Silent.full.jpg */,
-				D341EE71175944B900A27DD9 /* Renegade Krasis.full.jpg */,
-				D341EE72175944B900A27DD9 /* Renounce the Guilds.full.jpg */,
-				D341EE73175944B900A27DD9 /* Restore the Peace.full.jpg */,
-				D341EE74175944B900A27DD9 /* Riot Control.full.jpg */,
-				D341EE75175944B900A27DD9 /* Riot Piker.full.jpg */,
-				D341EE76175944B900A27DD9 /* Rot Farm Skeleton.full.jpg */,
-				D341EE77175944B900A27DD9 /* Rubblebelt Maaka.full.jpg */,
-				D341EE78175944B900A27DD9 /* Runner's Bane.full.jpg */,
-				D341EE79175944B900A27DD9 /* Ruric Thar, the Unbowed.full.jpg */,
-				D341EE7A175944B900A27DD9 /* Saruli Gatekeepers.full.jpg */,
-				D341EE7B175944B900A27DD9 /* Savageborn Hydra.full.jpg */,
-				D341EE7C175944B900A27DD9 /* Scab-Clan Giant.full.jpg */,
-				D341EE7D175944B900A27DD9 /* Scion of Vitu-Ghazi.full.jpg */,
-				D341EE7E175944B900A27DD9 /* Selesnya Cluestone.full.jpg */,
-				D341EE7F175944B900A27DD9 /* Selesnya Guildgate.full.jpg */,
-				D341EE80175944B900A27DD9 /* Showstopper.full.jpg */,
-				D341EE81175944B900A27DD9 /* Simic Cluestone.full.jpg */,
-				D341EE82175944B900A27DD9 /* Simic Guildgate.full.jpg */,
-				D341EE83175944B900A27DD9 /* Sin Collector.full.jpg */,
-				D341EE84175944B900A27DD9 /* Sinister Possession.full.jpg */,
-				D341EE85175944B900A27DD9 /* Sire of Insanity.full.jpg */,
-				D341EE86175944B900A27DD9 /* Skylasher.full.jpg */,
-				D341EE87175944B900A27DD9 /* Smelt-Ward Gatekeepers.full.jpg */,
-				D341EE88175944B900A27DD9 /* Species Gorger.full.jpg */,
-				D341EE89175944B900A27DD9 /* Spike Jester.full.jpg */,
-				D341EE8A175944B900A27DD9 /* Steeple Roc.full.jpg */,
-				D341EE8B175944B900A27DD9 /* Sunspire Gatekeepers.full.jpg */,
-				D341EE8C175944B900A27DD9 /* Tajic, Blade of the Legion.full.jpg */,
-				D341EE8D175944B900A27DD9 /* Teysa, Envoy of Ghosts.full.jpg */,
-				D341EE8E175944B900A27DD9 /* Thrashing Mossdog.full.jpg */,
-				D341EE8F175944B900A27DD9 /* Tithe Drinker.full.jpg */,
-				D341EE90175944B900A27DD9 /* ToilTrouble.full.jpg */,
-				D341EE91175944B900A27DD9 /* Trait Doctoring.full.jpg */,
-				D341EE92175944B900A27DD9 /* Trostani's Summoner.full.jpg */,
-				D341EE93175944B900A27DD9 /* TurnBurn.full.jpg */,
-				D341EE94175944B900A27DD9 /* Ubul Sar Gatekeepers.full.jpg */,
-				D341EE95175944B900A27DD9 /* Uncovered Clues.full.jpg */,
-				D341EE96175944B900A27DD9 /* Unflinching Courage.full.jpg */,
-				D341EE97175944B900A27DD9 /* Varolz, the Scar-Striped.full.jpg */,
-				D341EE98175944B900A27DD9 /* Viashino Firstblade.full.jpg */,
-				D341EE99175944B900A27DD9 /* Voice of Resurgence.full.jpg */,
-				D341EE9A175944B900A27DD9 /* Vorel of the Hull Clade.full.jpg */,
-				D341EE9B175944B900A27DD9 /* Wake the Reflections.full.jpg */,
-				D341EE9C175944B900A27DD9 /* Warleader's Helix.full.jpg */,
-				D341EE9D175944B900A27DD9 /* Warped Physique.full.jpg */,
-				D341EE9E175944B900A27DD9 /* Weapon Surge.full.jpg */,
-				D341EE9F175944B900A27DD9 /* WearTear.full.jpg */,
-				D341EEA0175944B900A27DD9 /* Wind Drake.full.jpg */,
-				D341EEA1175944B900A27DD9 /* Woodlot Crawler.full.jpg */,
-				D341EEA2175944B900A27DD9 /* Zhur-Taa Ancient.full.jpg */,
-				D341EEA3175944B900A27DD9 /* Zhur-Taa Druid.full.jpg */,
-			);
-			path = DGM;
 			sourceTree = "<group>";
 		};
 		D3BD129B17569A1E00A3FA85 = {
@@ -663,7 +193,6 @@
 				D3BD12BB17569A1E00A3FA85 /* Default@2x.png */,
 				D3BD12BD17569A1E00A3FA85 /* Default-568h@2x.png */,
 				D318507D1757BEB3008F840B /* CSV Files */,
-				D3BD12E517569ECC00A3FA85 /* Images */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -686,14 +215,6 @@
 				D3BD12D417569A1F00A3FA85 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		D3BD12E517569ECC00A3FA85 /* Images */ = {
-			isa = PBXGroup;
-			children = (
-				D341EE07175944B800A27DD9 /* DGM */,
-			);
-			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -772,163 +293,7 @@
 				D3BD12BC17569A1E00A3FA85 /* Default@2x.png in Resources */,
 				D3BD12BE17569A1E00A3FA85 /* Default-568h@2x.png in Resources */,
 				D3BD12C117569A1E00A3FA85 /* MainStoryboard.storyboard in Resources */,
-				D341EEA4175944B900A27DD9 /* Advent of the Wurm.full.jpg in Resources */,
-				D341EEA5175944B900A27DD9 /* Aetherling.full.jpg in Resources */,
-				D341EEA6175944B900A27DD9 /* AliveWell.full.jpg in Resources */,
-				D341EEA7175944B900A27DD9 /* ArmedDangerous.full.jpg in Resources */,
-				D341EEA8175944B900A27DD9 /* Armored Wolf-Rider.full.jpg in Resources */,
-				D341EEA9175944B900A27DD9 /* Ascended Lawmage.full.jpg in Resources */,
-				D341EEAA175944B900A27DD9 /* Awe for the Guilds.full.jpg in Resources */,
-				D341EEAB175944B900A27DD9 /* Azorius Cluestone.full.jpg in Resources */,
-				D341EEAC175944B900A27DD9 /* Azorius Guildgate.full.jpg in Resources */,
-				D341EEAD175944B900A27DD9 /* Bane Alley Blackguard.full.jpg in Resources */,
-				D341EEAE175944B900A27DD9 /* Battering Krasis.full.jpg in Resources */,
-				D341EEAF175944B900A27DD9 /* BeckCall.full.jpg in Resources */,
-				D341EEB0175944B900A27DD9 /* Beetleform Mage.full.jpg in Resources */,
-				D341EEB1175944B900A27DD9 /* Blast of Genius.full.jpg in Resources */,
-				D341EEB2175944B900A27DD9 /* Blaze Commando.full.jpg in Resources */,
-				D341EEB3175944B900A27DD9 /* Blood Baron of Vizkopa.full.jpg in Resources */,
-				D341EEB4175944B900A27DD9 /* Blood Scrivener.full.jpg in Resources */,
-				D341EEB5175944B900A27DD9 /* Boros Battleshaper.full.jpg in Resources */,
-				D341EEB6175944B900A27DD9 /* Boros Cluestone.full.jpg in Resources */,
-				D341EEB7175944B900A27DD9 /* Boros Guildgate.full.jpg in Resources */,
-				D341EEB8175944B900A27DD9 /* Boros Mastiff.full.jpg in Resources */,
-				D341EEB9175944B900A27DD9 /* BreakingEntering.full.jpg in Resources */,
-				D341EEBA175944B900A27DD9 /* Bred for the Hunt.full.jpg in Resources */,
-				D341EEBB175944B900A27DD9 /* Bronzebeak Moa.full.jpg in Resources */,
-				D341EEBC175944B900A27DD9 /* Carnage Gladiator.full.jpg in Resources */,
-				D341EEBD175944B900A27DD9 /* CatchRelease.full.jpg in Resources */,
-				D341EEBE175944B900A27DD9 /* Clear a Path.full.jpg in Resources */,
-				D341EEBF175944B900A27DD9 /* Council of the Absolute.full.jpg in Resources */,
-				D341EEC0175944B900A27DD9 /* Crypt Incursion.full.jpg in Resources */,
-				D341EEC1175944B900A27DD9 /* Deadbridge Chant.full.jpg in Resources */,
-				D341EEC2175944B900A27DD9 /* Debt to the Deathless.full.jpg in Resources */,
-				D341EEC3175944B900A27DD9 /* Deputy of Acquittals.full.jpg in Resources */,
-				D341EEC4175944B900A27DD9 /* Dimir Cluestone.full.jpg in Resources */,
-				D341EEC5175944B900A27DD9 /* Dimir Guildgate.full.jpg in Resources */,
-				D341EEC6175944B900A27DD9 /* DownDirty.full.jpg in Resources */,
-				D341EEC7175944B900A27DD9 /* Dragonshift.full.jpg in Resources */,
-				D341EEC8175944B900A27DD9 /* Drown in Filth.full.jpg in Resources */,
-				D341EEC9175944B900A27DD9 /* Emmara Tandris.full.jpg in Resources */,
-				D341EECA175944B900A27DD9 /* Exava, Rakdos Blood Witch.full.jpg in Resources */,
-				D341EECB175944B900A27DD9 /* FarAway.full.jpg in Resources */,
-				D341EECC175944B900A27DD9 /* Fatal Fumes.full.jpg in Resources */,
-				D341EECD175944B900A27DD9 /* Feral Animist.full.jpg in Resources */,
-				D341EECE175944B900A27DD9 /* FleshBlood.full.jpg in Resources */,
-				D341EECF175944B900A27DD9 /* Fluxcharger.full.jpg in Resources */,
-				D341EED0175944B900A27DD9 /* Gaze of Granite.full.jpg in Resources */,
-				D341EED1175944B900A27DD9 /* GiveTake.full.jpg in Resources */,
-				D341EED2175944B900A27DD9 /* Gleam of Battle.full.jpg in Resources */,
-				D341EED3175944B900A27DD9 /* Goblin Test Pilot.full.jpg in Resources */,
-				D341EED4175944B900A27DD9 /* Golgari Cluestone.full.jpg in Resources */,
-				D341EED5175944B900A27DD9 /* Golgari Guildgate.full.jpg in Resources */,
-				D341EED6175944B900A27DD9 /* Gruul Cluestone.full.jpg in Resources */,
-				D341EED7175944B900A27DD9 /* Gruul Guildgate.full.jpg in Resources */,
-				D341EED8175944B900A27DD9 /* Gruul War Chant.full.jpg in Resources */,
-				D341EED9175944B900A27DD9 /* Haazda Snare Squad.full.jpg in Resources */,
-				D341EEDA175944B900A27DD9 /* Haunter of Nightveil.full.jpg in Resources */,
-				D341EEDB175944B900A27DD9 /* Hidden Strings.full.jpg in Resources */,
-				D341EEDC175944B900A27DD9 /* Hired Torturer.full.jpg in Resources */,
-				D341EEDD175944B900A27DD9 /* Izzet Cluestone.full.jpg in Resources */,
-				D341EEDE175944B900A27DD9 /* Izzet Guildgate.full.jpg in Resources */,
-				D341EEDF175944B900A27DD9 /* Jelenn Sphinx.full.jpg in Resources */,
-				D341EEE0175944B900A27DD9 /* Korozda Gorgon.full.jpg in Resources */,
-				D341EEE1175944B900A27DD9 /* Krasis Incubation.full.jpg in Resources */,
-				D341EEE2175944B900A27DD9 /* Kraul Warrior.full.jpg in Resources */,
-				D341EEE3175944B900A27DD9 /* Lavinia of the Tenth.full.jpg in Resources */,
-				D341EEE4175944B900A27DD9 /* Legion's Initiative.full.jpg in Resources */,
-				D341EEE5175944B900A27DD9 /* Lyev Decree.full.jpg in Resources */,
-				D341EEE6175944B900A27DD9 /* Master of Cruelties.full.jpg in Resources */,
-				D341EEE7175944B900A27DD9 /* Maw of the Obzedat.full.jpg in Resources */,
-				D341EEE8175944B900A27DD9 /* Maze Abomination.full.jpg in Resources */,
-				D341EEE9175944B900A27DD9 /* Maze Behemoth.full.jpg in Resources */,
-				D341EEEA175944B900A27DD9 /* Maze Glider.full.jpg in Resources */,
-				D341EEEB175944B900A27DD9 /* Maze Rusher.full.jpg in Resources */,
-				D341EEEC175944B900A27DD9 /* Maze Sentinel.full.jpg in Resources */,
-				D341EEED175944B900A27DD9 /* Maze's End.full.jpg in Resources */,
-				D341EEEE175944B900A27DD9 /* Melek, Izzet Paragon.full.jpg in Resources */,
-				D341EEEF175944B900A27DD9 /* Mending Touch.full.jpg in Resources */,
-				D341EEF0175944B900A27DD9 /* Mindstatic.full.jpg in Resources */,
-				D341EEF1175944B900A27DD9 /* Mirko Vosk, Mind Drinker.full.jpg in Resources */,
-				D341EEF2175944B900A27DD9 /* Morgue Burst.full.jpg in Resources */,
-				D341EEF3175944B900A27DD9 /* Murmuring Phantasm.full.jpg in Resources */,
-				D341EEF4175944B900A27DD9 /* Mutant's Prey.full.jpg in Resources */,
-				D341EEF5175944B900A27DD9 /* Nivix Cyclops.full.jpg in Resources */,
-				D341EEF6175944B900A27DD9 /* Notion Thief.full.jpg in Resources */,
-				D341EEF7175944B900A27DD9 /* Obzedat's Aid.full.jpg in Resources */,
-				D341EEF8175944B900A27DD9 /* Opal Lake Gatekeepers.full.jpg in Resources */,
-				D341EEF9175944B900A27DD9 /* Orzhov Cluestone.full.jpg in Resources */,
-				D341EEFA175944B900A27DD9 /* Orzhov Guildgate.full.jpg in Resources */,
-				D341EEFB175944B900A27DD9 /* Phytoburst.full.jpg in Resources */,
-				D341EEFC175944B900A27DD9 /* Pilfered Plans.full.jpg in Resources */,
-				D341EEFD175944B900A27DD9 /* Plasm Capture.full.jpg in Resources */,
-				D341EEFE175944B900A27DD9 /* Pontiff of Blight.full.jpg in Resources */,
-				D341EEFF175944B900A27DD9 /* Possibility Storm.full.jpg in Resources */,
-				D341EF00175944B900A27DD9 /* ProfitLoss.full.jpg in Resources */,
-				D341EF01175944B900A27DD9 /* Progenitor Mimic.full.jpg in Resources */,
-				D341EF02175944B900A27DD9 /* ProtectServe.full.jpg in Resources */,
-				D341EF03175944B900A27DD9 /* Punish the Enemy.full.jpg in Resources */,
-				D341EF04175944B900A27DD9 /* Putrefy.full.jpg in Resources */,
-				D341EF05175944B900A27DD9 /* Pyrewild Shaman.full.jpg in Resources */,
-				D341EF06175944B900A27DD9 /* Rakdos Cluestone.full.jpg in Resources */,
-				D341EF07175944B900A27DD9 /* Rakdos Drake.full.jpg in Resources */,
-				D341EF08175944B900A27DD9 /* Rakdos Guildgate.full.jpg in Resources */,
-				D341EF09175944B900A27DD9 /* Ral Zarek.full.jpg in Resources */,
-				D341EF0A175944B900A27DD9 /* ReadyWilling.full.jpg in Resources */,
-				D341EF0B175944B900A27DD9 /* Reap Intellect.full.jpg in Resources */,
-				D341EF0C175944B900A27DD9 /* Render Silent.full.jpg in Resources */,
-				D341EF0D175944B900A27DD9 /* Renegade Krasis.full.jpg in Resources */,
-				D341EF0E175944B900A27DD9 /* Renounce the Guilds.full.jpg in Resources */,
-				D341EF0F175944B900A27DD9 /* Restore the Peace.full.jpg in Resources */,
-				D341EF10175944B900A27DD9 /* Riot Control.full.jpg in Resources */,
-				D341EF11175944B900A27DD9 /* Riot Piker.full.jpg in Resources */,
-				D341EF12175944B900A27DD9 /* Rot Farm Skeleton.full.jpg in Resources */,
-				D341EF13175944B900A27DD9 /* Rubblebelt Maaka.full.jpg in Resources */,
-				D341EF14175944B900A27DD9 /* Runner's Bane.full.jpg in Resources */,
-				D341EF15175944B900A27DD9 /* Ruric Thar, the Unbowed.full.jpg in Resources */,
-				D341EF16175944B900A27DD9 /* Saruli Gatekeepers.full.jpg in Resources */,
-				D341EF17175944B900A27DD9 /* Savageborn Hydra.full.jpg in Resources */,
-				D341EF18175944B900A27DD9 /* Scab-Clan Giant.full.jpg in Resources */,
-				D341EF19175944B900A27DD9 /* Scion of Vitu-Ghazi.full.jpg in Resources */,
-				D341EF1A175944B900A27DD9 /* Selesnya Cluestone.full.jpg in Resources */,
-				D341EF1B175944B900A27DD9 /* Selesnya Guildgate.full.jpg in Resources */,
-				D341EF1C175944B900A27DD9 /* Showstopper.full.jpg in Resources */,
-				D341EF1D175944B900A27DD9 /* Simic Cluestone.full.jpg in Resources */,
-				D341EF1E175944B900A27DD9 /* Simic Guildgate.full.jpg in Resources */,
-				D341EF1F175944B900A27DD9 /* Sin Collector.full.jpg in Resources */,
-				D341EF20175944B900A27DD9 /* Sinister Possession.full.jpg in Resources */,
-				D341EF21175944B900A27DD9 /* Sire of Insanity.full.jpg in Resources */,
-				D341EF22175944B900A27DD9 /* Skylasher.full.jpg in Resources */,
-				D341EF23175944B900A27DD9 /* Smelt-Ward Gatekeepers.full.jpg in Resources */,
-				D341EF24175944B900A27DD9 /* Species Gorger.full.jpg in Resources */,
-				D341EF25175944B900A27DD9 /* Spike Jester.full.jpg in Resources */,
-				D341EF26175944B900A27DD9 /* Steeple Roc.full.jpg in Resources */,
-				D341EF27175944B900A27DD9 /* Sunspire Gatekeepers.full.jpg in Resources */,
-				D341EF28175944B900A27DD9 /* Tajic, Blade of the Legion.full.jpg in Resources */,
-				D341EF29175944B900A27DD9 /* Teysa, Envoy of Ghosts.full.jpg in Resources */,
-				D341EF2A175944B900A27DD9 /* Thrashing Mossdog.full.jpg in Resources */,
-				D341EF2B175944B900A27DD9 /* Tithe Drinker.full.jpg in Resources */,
-				D341EF2C175944B900A27DD9 /* ToilTrouble.full.jpg in Resources */,
-				D341EF2D175944B900A27DD9 /* Trait Doctoring.full.jpg in Resources */,
-				D341EF2E175944B900A27DD9 /* Trostani's Summoner.full.jpg in Resources */,
-				D341EF2F175944B900A27DD9 /* TurnBurn.full.jpg in Resources */,
-				D341EF30175944B900A27DD9 /* Ubul Sar Gatekeepers.full.jpg in Resources */,
-				D341EF31175944B900A27DD9 /* Uncovered Clues.full.jpg in Resources */,
-				D341EF32175944B900A27DD9 /* Unflinching Courage.full.jpg in Resources */,
-				D341EF33175944B900A27DD9 /* Varolz, the Scar-Striped.full.jpg in Resources */,
-				D341EF34175944B900A27DD9 /* Viashino Firstblade.full.jpg in Resources */,
-				D341EF35175944B900A27DD9 /* Voice of Resurgence.full.jpg in Resources */,
-				D341EF36175944B900A27DD9 /* Vorel of the Hull Clade.full.jpg in Resources */,
-				D341EF37175944B900A27DD9 /* Wake the Reflections.full.jpg in Resources */,
-				D341EF38175944B900A27DD9 /* Warleader's Helix.full.jpg in Resources */,
-				D341EF39175944B900A27DD9 /* Warped Physique.full.jpg in Resources */,
-				D341EF3A175944B900A27DD9 /* Weapon Surge.full.jpg in Resources */,
-				D341EF3B175944B900A27DD9 /* WearTear.full.jpg in Resources */,
-				D341EF3C175944B900A27DD9 /* Wind Drake.full.jpg in Resources */,
-				D341EF3D175944B900A27DD9 /* Woodlot Crawler.full.jpg in Resources */,
-				D341EF3E175944B900A27DD9 /* Zhur-Taa Ancient.full.jpg in Resources */,
-				D341EF3F175944B900A27DD9 /* Zhur-Taa Druid.full.jpg in Resources */,
-				D341EF41175944DD00A27DD9 /* DGM.csv in Resources */,
+				D39C6B22175BA5050094457C /* savetest.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -969,6 +334,7 @@
 				D3BD12E417569D4A00A3FA85 /* BCCardInfoViewController.m in Sources */,
 				D318507C175792D1008F840B /* BCMagicCard.m in Sources */,
 				D31850D81757F810008F840B /* loadCardDataAndCSVParsing.m in Sources */,
+				D39C6B25175BB9DE0094457C /* BCFullDatabaseSearchTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
